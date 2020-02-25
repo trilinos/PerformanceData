@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<performance-report date="2018-10-08T21:16:16" name="nightly_run_2018_10_08" time-units="seconds">
+    <timing name="MyProcess_A" value="2.5"/>
+</performance-report>
