@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
-<performance-report date="2018-10-09T21:16:16" name="nightly_run_2018_10_08" time-units="seconds">
+<performance-report date="2018-10-09T21:16:16" name="nightly_run_2018_10_09" time-units="seconds">
     <timing name="MyProcess_A" value="3.0"/>
 </performance-report>
