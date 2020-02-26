@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<performance-report date="2020-02-26T23:26:39" name="nightly_run_2020_02_26" time-units="seconds">
+    <timing name="X) Global" value="1.55921">
+        <timing name="1) ElementLoop  (Graph)" value="0.281621"/>
+        <timing name="2) FillComplete (Graph)" value="0.904226"/>
+        <timing name="3.1) ElementLoop  (Memory)" value="0.0879274"/>
+        <timing name="3.2) ElementLoop  (Matrix)" value="0.154657"/>
+        <timing name="4) FillComplete (Matrix)" value="0.0305923"/>
+        <timing name="5) GlobalAssemble (RHS)" value="0.0014345"/>
+        <timing name="Remainder" value="0.0987503"/>
+    </timing>
+</performance-report>
